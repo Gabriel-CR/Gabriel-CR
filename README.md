@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gabriel-CR
-- 👀 i'm studying cience computer, and like all about tecnology
+- 👀 i'm studying Computer Science, and like all about tecnology
 - 🌱 I’m currently learning C, Python, HTML, CSS and JavaScript
 
 <!---
