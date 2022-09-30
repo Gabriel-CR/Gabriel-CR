@@ -1,4 +1,4 @@
-### Hi, I’m Gabriel Castro, I study Computer Science and I like how technology impacts lives
+### Hello, I'm Gabriel Castro, I study Computer Science in Federal University of Ceará
 
 <div align="center">
   <a href="https://github.com/Gabriel-CR">
